@@ -1,7 +1,7 @@
-#🚀 99-Scrap
+# 🚀 99-Scrap
 Um bot de automação inteligente desenvolvido em Python para monitorar, analisar e enviar propostas em projetos do site 99Freelas. O sistema utiliza uma abordagem híbrida de Web Scraping e RPA (Automação Robótica de Processos) para identificar oportunidades e precificar serviços de forma competitiva.
 
-##📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 O objetivo deste projeto é otimizar o tempo de prospecção de freelancers. Ao invés de buscar projetos manualmente, o script varre múltiplas categorias, analisa a média de preços oferecida pela concorrência e submete uma proposta automaticamente com um valor calculado estrategicamente para ser competitivo.
 
 ##⚙️ Como Funciona (Arquitetura Híbrida)
